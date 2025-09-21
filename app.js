@@ -1,1 +1,2 @@
-console.log("Ejecutando el sistema")
+// 1. Crear un array para almacenar los nombres
+let amigos = [];
