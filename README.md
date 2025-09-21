@@ -2,4 +2,3 @@
 
 - Estado del proyecto: Finalizado.
 
-Para ejecutar el sistema.
